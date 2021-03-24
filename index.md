@@ -109,6 +109,7 @@ Signed,
 - Bill Mulligan
 - Björn Fahller
 - Blair Vidakovich (vidak)
+- Bob Murphy
 - Bob Killen (Kubernetes Steering Committee Member)
 - Bram Hagens
 - Brendan Hickey
